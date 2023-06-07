@@ -1,0 +1,19 @@
+* {
+    font-family: Verdana, sans-serif;
+    text-align: center;
+    color: white;
+}
+
+body {
+    background-color: black;
+}
+
+a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+.BannerHeader h1 {
+    font-size: 50px;
+    font-weight: normal;
+}
